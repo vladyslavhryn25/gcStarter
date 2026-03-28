@@ -1,4 +1,4 @@
-﻿using gcStarter;
+﻿using Task1;
 var file = new FileResource("report.txt");
 var network = new NetworkResource("api.company.local");
 

@@ -1,4 +1,4 @@
-﻿namespace gcStarter;
+﻿namespace Task1;
 using System.Collections.Generic;
 
 public class ResourceManager<T> where T : Resource

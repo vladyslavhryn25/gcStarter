@@ -1,4 +1,4 @@
-﻿namespace gcStarter;
+﻿namespace Task1;
 
 public class NetworkResource : Resource, IDisposable
 {

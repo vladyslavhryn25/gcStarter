@@ -1,4 +1,4 @@
-﻿namespace gcStarter;
+﻿namespace Task1;
 public class FileResource : Resource, IDisposable
 {
     public FileResource(string name) : base(name) { }
